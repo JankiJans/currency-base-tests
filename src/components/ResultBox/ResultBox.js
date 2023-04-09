@@ -20,6 +20,7 @@ const ResultBox = ({ from, to, amount }) => {
       {formattedAmount} = {convertedAmount}
     </div>
   );
+
 };
 
 ResultBox.propTypes = {
